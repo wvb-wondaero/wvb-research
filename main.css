@@ -1,0 +1,83 @@
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Geist',sans-serif;font-size:14px;background:#fff;color:#1a1a1a}
+a{text-decoration:none;color:inherit}
+
+.wrap{max-width:900px;margin:0 auto;padding:2rem 1.5rem}
+
+.topnav{display:flex;align-items:center;justify-content:space-between;padding-bottom:1.25rem;border-bottom:0.5px solid #e5e5e5;margin-bottom:2rem}
+.brand{font-family:'Instrument Serif',serif;font-size:20px;letter-spacing:-0.3px}
+.brand em{font-style:italic;color:#888}
+.navlinks{display:flex;gap:4px}
+.navlink{font-size:12px;color:#888;padding:5px 14px;border:0.5px solid transparent;border-radius:8px;cursor:pointer;font-family:'DM Mono',monospace;letter-spacing:0.03em;transition:all 0.15s}
+.navlink:hover{color:#1a1a1a}
+.navlink.active{color:#1a1a1a;border-color:#d0d0d0;background:#f5f5f5}
+
+.section{display:none}
+.section.visible{display:block}
+
+.section-head{margin-bottom:1.5rem}
+.section-label{font-family:'DM Mono',monospace;font-size:10px;letter-spacing:0.12em;color:#aaa;margin-bottom:0.4rem;text-transform:uppercase}
+.section-title{font-family:'Instrument Serif',serif;font-size:28px;color:#1a1a1a;line-height:1.2}
+
+.filter-row{display:flex;gap:6px;margin-bottom:1.25rem;flex-wrap:wrap}
+.chip{font-size:11px;padding:4px 12px;border-radius:20px;border:0.5px solid #e0e0e0;color:#888;cursor:pointer;font-family:'DM Mono',monospace;transition:all 0.15s}
+.chip.active{background:#1a1a1a;color:#fff;border-color:#1a1a1a}
+
+.deal-list{display:flex;flex-direction:column}
+.deal-row{display:grid;grid-template-columns:90px 1fr auto;align-items:start;gap:16px;padding:14px 0;border-bottom:0.5px solid #f0f0f0}
+.deal-date{font-family:'DM Mono',monospace;font-size:11px;color:#aaa;padding-top:2px}
+.deal-title{font-size:14px;font-weight:500;color:#1a1a1a;margin-bottom:4px;line-height:1.4}
+.deal-sub{font-size:12px;color:#666;line-height:1.5}
+.deal-tags{display:flex;gap:4px;margin-top:6px;flex-wrap:wrap}
+.dtag{font-size:10px;padding:2px 7px;border-radius:3px;font-family:'DM Mono',monospace;font-weight:500}
+.dtag.seed{background:#fdf3ff;color:#7e22ce}
+.dtag.series_a{background:#E6F1FB;color:#0C447C}
+.dtag.series_b{background:#dbeafe;color:#1e40af}
+.dtag.series_c{background:#ede9fe;color:#4c1d95}
+.dtag.pre_ipo{background:#fef9c3;color:#854d0e}
+.dtag.ma{background:#EAF3DE;color:#27500A}
+.deal-ev{font-size:13px;font-weight:500;color:#1a1a1a;white-space:nowrap;padding-top:2px}
+.deal-acquirer{font-size:11px;color:#888;font-family:'DM Mono',monospace}
+
+/* stage badge */
+.stage-badge{display:inline-flex;align-items:center;gap:5px;font-size:11px;padding:2px 8px;border-radius:20px;border:0.5px solid #e0e0e0;color:#888;font-family:'DM Mono',monospace;vertical-align:middle;margin-left:6px}
+.stage-dot{width:6px;height:6px;border-radius:50%;flex-shrink:0}
+.stage--소문 .stage-dot{background:#db2777}
+.stage--협상 .stage-dot{background:#d97706}
+.stage--계약 .stage-dot{background:#2563eb}
+.stage--완료 .stage-dot{background:#059669}
+
+.memo-grid{display:grid;grid-template-columns:1fr 1fr;gap:1rem}
+.memo-card{border:0.5px solid #e5e5e5;border-radius:12px;padding:1.25rem;background:#fff;cursor:pointer;transition:border-color 0.15s;display:block}
+.memo-card:hover{border-color:#aaa}
+.mc-sector{font-family:'DM Mono',monospace;font-size:10px;letter-spacing:0.08em;color:#aaa;text-transform:uppercase;margin-bottom:6px}
+.mc-title{font-family:'Instrument Serif',serif;font-size:17px;color:#1a1a1a;line-height:1.3;margin-bottom:10px}
+.mc-meta{display:flex;gap:6px;flex-wrap:wrap}
+.mc-tag{font-size:10px;padding:2px 7px;border-radius:3px;font-family:'DM Mono',monospace}
+.mc-tag.deal{background:#E6F1FB;color:#0C447C}
+.mc-footer{margin-top:12px;padding-top:10px;border-top:0.5px solid #f0f0f0;font-size:11px;color:#aaa;font-family:'DM Mono',monospace}
+
+.sector-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:1rem}
+.sec-cat{border:0.5px solid #e5e5e5;border-radius:12px;overflow:hidden}
+.sec-cat-head{padding:1rem;border-bottom:0.5px solid #f0f0f0}
+.sec-cat-name{font-size:13px;font-weight:500;color:#1a1a1a;margin-bottom:2px}
+.sec-cat-sub{font-size:11px;color:#aaa}
+.sec-items{padding:0.75rem}
+.sec-item{display:block;padding:8px 0;border-bottom:0.5px solid #f5f5f5}
+.sec-item:last-child{border-bottom:none}
+.sec-item:hover .sec-item-title{color:#378ADD}
+.sec-item-title{font-size:12px;color:#1a1a1a;line-height:1.4;margin-bottom:3px;transition:color 0.15s}
+.sec-item-date{font-family:'DM Mono',monospace;font-size:10px;color:#aaa}
+
+.deal-group{border-bottom:0.5px solid #f0f0f0}
+.deal-group.hidden{display:none}
+.deal-group-header{display:grid;grid-template-columns:90px 1fr auto;align-items:start;gap:16px;padding:14px 0;cursor:pointer}
+.deal-group-header:hover .deal-title{color:#378ADD}
+.article-count{font-size:11px;font-family:'DM Mono',monospace;color:#aaa;margin-left:6px}
+.arrow{font-size:11px;color:#aaa;margin-left:4px}
+.deal-articles{display:none;margin:0 0 12px 106px;flex-direction:column;gap:0;border-left:2px solid #f0f0f0;padding-left:16px}
+.deal-articles.open{display:flex}
+.deal-article-item{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:0.5px solid #f5f5f5;text-decoration:none}
+.deal-article-item:hover .deal-article-title{color:#378ADD}
+.deal-article-title{font-size:13px;color:#1a1a1a;line-height:1.4}
+.deal-article-date{font-family:'DM Mono',monospace;font-size:11px;color:#aaa;white-space:nowrap;margin-left:12px}

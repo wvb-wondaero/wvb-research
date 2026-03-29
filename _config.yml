@@ -1,0 +1,12 @@
+title: WVB Research
+baseurl: "/wvb-research"
+url: "https://wvb-wondaero.github.io"
+future: true
+
+collections:
+  memo:
+    output: true
+    permalink: /memo/:name/
+  sector:
+    output: true
+    permalink: /sector/:name/

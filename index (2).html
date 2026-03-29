@@ -1,0 +1,128 @@
+---
+layout: default
+title: WVB Research
+---
+<div class="wrap">
+  <nav class="topnav">
+    <div class="brand">WVB <em>Research</em></div>
+    <div class="navlinks">
+      <div class="navlink active" onclick="show('flow',this)">Deal Flow</div>
+      <div class="navlink" onclick="show('memo',this)">Deal Memo</div>
+      <div class="navlink" onclick="show('sector',this)">Sector</div>
+    </div>
+  </nav>
+
+  <div id="flow" class="section visible">
+    <div class="section-head">
+      <div class="section-label">Auto-archived · Korea Venture Capital and Startup</div>
+      <div class="section-title">Deal Flow</div>
+    </div>
+    <div class="filter-row">
+      <div class="chip active" onclick="filterDeal('all',this)">전체</div>
+      <div class="chip" onclick="filterDeal('seed',this)">시드</div>
+      <div class="chip" onclick="filterDeal('series_a',this)">시리즈A</div>
+      <div class="chip" onclick="filterDeal('series_b',this)">시리즈B</div>
+      <div class="chip" onclick="filterDeal('series_c',this)">시리즈C+</div>
+      <div class="chip" onclick="filterDeal('pre_ipo',this)">Pre-IPO</div>
+      <div class="chip" onclick="filterDeal('ma',this)">M&A</div>
+    </div>
+    <div class="deal-list" id="deal-list">
+      {% for deal in site.data.deals %}
+      <div class="deal-row"
+        data-type="{{ deal.type }}"
+        data-title="{{ deal.title }}"
+        data-date="{{ deal.date }}"
+        data-summary="{{ deal.summary }}"
+        data-url="{{ deal.url }}"
+        data-ev="{{ deal.ev }}"
+        data-company="{{ deal.company }}"
+        data-acquirer="{{ deal.investor }}"
+        data-deal-stage="{{ deal.deal_stage }}">
+        <div class="deal-date">{{ deal.date }}</div>
+        <div class="deal-body">
+          <div class="deal-title">{{ deal.title }}</div>
+          <div class="deal-sub">{{ deal.summary }}</div>
+          <div class="deal-tags">
+            {% for t in deal.tags %}
+            <span class="dtag {{ t }}">{{ t | upcase }}</span>
+            {% endfor %}
+          </div>
+        </div>
+        <div class="deal-ev">{{ deal.ev | default: "—" }}</div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div id="memo" class="section">
+    <div class="section-head">
+      <div class="section-label">In-depth analysis</div>
+      <div class="section-title">Deal Memo</div>
+    </div>
+    <div class="memo-grid">
+      {% for post in site.memo %}
+      <a class="memo-card" href="{{ post.url | relative_url }}">
+        <div class="mc-sector">{{ post.sector }}</div>
+        <div class="mc-title">{{ post.title }}</div>
+        <div class="mc-meta">
+          {% for tag in post.tags %}
+          <span class="mc-tag deal">{{ tag }}</span>
+          {% endfor %}
+        </div>
+        <div class="mc-footer">{{ post.date | date: "%Y.%m.%d" }} · {{ post.pages }}p</div>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+
+  <div id="sector" class="section">
+    <div class="section-head">
+      <div class="section-label">Industry Research</div>
+      <div class="section-title">Sector Analysis</div>
+    </div>
+    <div class="sector-grid">
+      <div class="sec-cat">
+        <div class="sec-cat-head">
+          <div class="sec-cat-name">Macro / Geo-political</div>
+          <div class="sec-cat-sub">거시경제 · 지정학 리스크</div>
+        </div>
+        <div class="sec-items">
+          {% for post in site.sector %}{% if post.category == 'macro' %}
+          <a class="sec-item" href="{{ post.url | relative_url }}">
+            <div class="sec-item-title">{{ post.title }}</div>
+            <div class="sec-item-date">{{ post.date | date: "%Y.%m.%d" }}</div>
+          </a>
+          {% endif %}{% endfor %}
+        </div>
+      </div>
+      <div class="sec-cat">
+        <div class="sec-cat-head">
+          <div class="sec-cat-name">Sector Deep-dive</div>
+          <div class="sec-cat-sub">섹터별 구조 분석</div>
+        </div>
+        <div class="sec-items">
+          {% for post in site.sector %}{% if post.category == 'sector' %}
+          <a class="sec-item" href="{{ post.url | relative_url }}">
+            <div class="sec-item-title">{{ post.title }}</div>
+            <div class="sec-item-date">{{ post.date | date: "%Y.%m.%d" }}</div>
+          </a>
+          {% endif %}{% endfor %}
+        </div>
+      </div>
+      <div class="sec-cat">
+        <div class="sec-cat-head">
+          <div class="sec-cat-name">Market Intelligence</div>
+          <div class="sec-cat-sub">딜 트렌드 · 멀티플 추이</div>
+        </div>
+        <div class="sec-items">
+          {% for post in site.sector %}{% if post.category == 'market' %}
+          <a class="sec-item" href="{{ post.url | relative_url }}">
+            <div class="sec-item-title">{{ post.title }}</div>
+            <div class="sec-item-date">{{ post.date | date: "%Y.%m.%d" }}</div>
+          </a>
+          {% endif %}{% endfor %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
