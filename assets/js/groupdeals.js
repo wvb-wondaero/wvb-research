@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var tagsHTML = latest.querySelector('.deal-tags') ? latest.querySelector('.deal-tags').innerHTML : '';
 
     var stage = latest.dataset.dealStage || '';
-    var stageLabels = { '소문': 'Rumor', '협상': 'Nego', '계약': 'Signed', '완료': 'Closed' };
+    var stageLabels = { 'rumor': 'Rumor', 'negotiation': 'Nego', 'signed': 'Signed', 'closed': 'Closed', '소문': 'Rumor', '협상': 'Nego', '계약': 'Signed', '완료': 'Closed' };
     var stageLabel = stageLabels[stage] || stage;
     var stageBadge = stage
       ? '<span class="stage-badge stage--' + stage + '"><span class="stage-dot"></span>' + stageLabel + '</span>'
