@@ -1,5 +1,75 @@
 [
   {
+    "title": "Redrob raises $10 million in Series A funding led by Korea Investment Partners",
+    "summary": "Redrob raised $10 million in Series A funding led by Korea Investment Partners.",
+    "company": "Redrob",
+    "investor": "Korea Investment Partners",
+    "type": "series_a",
+    "tags": [
+      "series_a"
+    ],
+    "ev": "$10M",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMGRjSjBRaGx5eVB5TWNUNVJZb0M0ZVJLRGppT04teEJfZzRDSWxVTFNOaUttSG1hRENUZENwUHlua0k0aTVVWDJvVWdiaEFfU3ozR29pTzc3b1U4b1AyMVJCUEt1eGZ2SjI0cmU0RExmUEVDUENXSWdRMHRhblYweXJmb29fQXZtNU9MQjlhRHl5VXhpRWRCOXJaN0p5eUh6Q21XSFF5dnk?oc=5",
+    "date": "2025.11.29"
+  },
+  {
+    "title": "South Korea AI biotech Galux raises $29m in series B",
+    "summary": "South Korea-based AI biotech company Galux raised $29 million in Series B funding.",
+    "company": "Galux",
+    "investor": "Not clearly named in provided text",
+    "type": "series_b",
+    "tags": [
+      "series_b"
+    ],
+    "ev": "$29M",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazRRS1I0UnhyN1QzRlozaG9Ta0tLQjhVdElrWWxmdlJWRXBZSHpzemxubGdGUEozNXRpWGp6Z2ttXy1RNWxNZU1FOVFBNFhHTGZEOTZfZmNoblFia1o4Tm5KMFZCa0t2QXFubWEwZTFUUjNqS1ZVV1d4Q0ZUWU9xdnJuZExpNEhDaFdj?oc=5",
+    "date": "2026.02.10"
+  },
+  {
+    "title": "EverEx attracts $2.8 mil. from Daewoong Investment, Naver for DTx commercialization",
+    "summary": "EverEx raised $2.8 million from Daewoong Investment and Naver for digital therapeutics (DTx) commercialization.",
+    "company": "EverEx",
+    "investor": "Daewoong Investment",
+    "type": "seed",
+    "tags": [
+      "seed"
+    ],
+    "ev": "$2.8M",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HbDI2OE5BN0wya2dfYTdGSHExZ1VmeHh5WFYzdkRFMVpDYWdYTmFEVi1LYlItdkt5N2pXMUxQb0hCUzFzbl9TSHNfUnJ6YXhGSjBuLWhXRTZXbmtyQnZ0QnpsVnpkaXAwMWNSTjV30gFyQVVfeXFMUEFZdGYzSU5EOFR3dUwtUTdQcHJjc1NuZEhJNTl5Zy1LczFkenFiek4yQlNQOExSaUxJMVdleEpaa2tTLUY1Z2I4Tzk4RTJvRU9tSEJOa2tRaGlwSDAxb0VNM1NyZU05TTBQalJ5cjk1bmNB?oc=5",
+    "date": "2025.11.05"
+  },
+  {
+    "title": "KRX acquires local AI startup for data biz development - Yonhap News Agency",
+    "summary": "Korea Exchange (KRX) acquires a local AI startup to develop its data business operations.",
+    "company": "Unknown - not specified in title/summary",
+    "investor": "Korea Exchange (KRX)",
+    "type": "ma",
+    "tags": [
+      "ma"
+    ],
+    "ev": null,
+    "deal_stage": "signed",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0b29qTFdGeVB2Z1RuTGlhbHVSVVRZMzhNMTA2QjhkUF9OVk11LVYyc3JDZlluVjhHZ3ZkRnlZTm96aUJnRGhWNm9SSDM1Vy1TQ2xwZkFZRmdOZw?oc=5",
+    "date": "2026.02.10"
+  },
+  {
+    "title": "AI startup Upstage to acquire Daum operator AXZ for Korean training data",
+    "summary": "AI startup Upstage is acquiring AXZ, the operator of Daum, to obtain Korean language training data for its AI models.",
+    "company": "AXZ",
+    "investor": "Upstage",
+    "type": "ma",
+    "tags": [
+      "ma"
+    ],
+    "ev": null,
+    "deal_stage": "signed",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yZngyODhCQm9qR1diOW9rQnc2QVNOalBqMEFiXzM0ckVtVXhaS21qanQzNktkdFdtUHRacWwzcVU5UERETFhHREw2RVFGSWhQZGlrR1JkQjFFdw?oc=5",
+    "date": "2026.01.29"
+  },
+  {
     "title": "Arm Joins $250 Million Funding Round Of Korean AI Chip Startup Rebellions",
     "summary": "Arm joined a $250 million funding round for Korean AI chip startup Rebellions, investing alongside other investors in the company's growth.",
     "company": "Rebellions",
