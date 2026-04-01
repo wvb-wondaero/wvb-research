@@ -1,5 +1,189 @@
 [
   {
+    "title": "Samsung-backed AI chip firm Rebellions raises $400 million ahead of IPO",
+    "summary": "Rebellions, a Samsung-backed AI chip startup, raised $400 million in a pre-IPO investment round ahead of its planned initial public offering.",
+    "company": "Rebellions",
+    "investor": "Samsung",
+    "type": "pre_ipo",
+    "tags": [
+      "pre_ipo"
+    ],
+    "ev": "$400M",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTTI3WVA3a0drQ0lLdnJPN2RYX0ZxMjd4aEpEaUpGZFNWZ3RLa3R6YkU2SlR4SFZNMmNVU1lHZ3lSdnhTcG52NmNJeUR6ZTc1eVR5UVdmYmdHTklBa25SRGZZQzJfekxCUWtDOElUaDFid0QzUkxaaHpaRUVDX2JCY09DU29aXzc1d2dtZjNNQdIBlAFBVV95cUxQTnZORGdoclNhRU12WkJ1QnJsd0pLa2VTRjlQMU1WYVJ0MFhrVGhsU2psekVVWGtwZkpZRVRwRkkxX3hFY3VBX2xMTldCY0tyMmt3MUtrcDJLTFJZVU42TkotNXVNcmVEOTdYaEIybUhoV3JUUmoyeFYtWjR2Qjc5dmxJV2hMNG9JQzlvTnBTeDg4MGpD?oc=5",
+    "date": "2026.03.30"
+  },
+  {
+    "title": "Rebellions lands $400M in funding to lead the South Korean revolt against Nvidia chips",
+    "summary": "Rebellions, a South Korean AI chip startup, secured $400M in funding to develop alternatives to Nvidia chips. The deal represents a major investment in the company's mission to challenge Nvidia's market dominance.",
+    "company": "Rebellions",
+    "investor": "Not clearly specified in summary",
+    "type": "series_c",
+    "tags": [
+      "series_c",
+      "ai_chips",
+      "south_korea"
+    ],
+    "ev": "$400M",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZnJkUnhYTGNBdEhTMERaZ21EbXZuUnhvX1Y2aWhMVGlGVWc0bnNuUXhkWW9sbUZfem8xQ1RoRWZhMzJrQ3QwTzg4WnAxOFFWc1R6RUZNaFppc3BVeEQ4RXpuUWdTSFlyNnYyZjduRnpOQVFFakJVUEtUSU10OUVQX3VOcVBieEFXNjVwcjVFUnVqWHM5Ti1IRDA4emd0VkhCemltVl8zV3hDd2d1?oc=5",
+    "date": "2026.03.30"
+  },
+  {
+    "title": "AI chip startup Rebellions raises $400 million at $2.3B valuation in pre-IPO round",
+    "summary": "AI chip startup Rebellions raised $400 million in a pre-IPO round at a $2.3 billion valuation, with investors not specified in the provided summary.",
+    "company": "Rebellions",
+    "investor": null,
+    "type": "pre_ipo",
+    "tags": [
+      "pre_ipo"
+    ],
+    "ev": "$400M",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWE9JN2paUXIwX09tNkJKWjBmMlNnalctSXZWUFcweURBeHpYcUNLalBPekFUaUhfeWpWV1hTQzVFV3RlbkVzVUtjdERLQV96NmgzUlYxcEtzNHFsT0Vzc1JtZENIclRlQXBnY0pwT3RGZW1KMjVkNlpJYWpwNWJnSG92YWVmcmZ1T0NxVElrQzhmSVNQQVRqQ2g0SUVDc1gzLU4zbE1QSVZXTXA4bDJxUmx3c1ZRQQ?oc=5",
+    "date": "2026.03.30"
+  },
+  {
+    "title": "Korean gov't, investors pour 640 billion won into AI chip startup Rebellions in pre-IPO funding",
+    "summary": "Korean government and multiple investors conducted a pre-IPO funding round of 640 billion won in AI chip startup Rebellions ahead of its planned initial public offering.",
+    "company": "Rebellions",
+    "investor": "Korean government",
+    "type": "pre_ipo",
+    "tags": [
+      "pre_ipo"
+    ],
+    "ev": "640 billion KRW",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbHUyTzIyNjE1b3Z2S2VhMGpkLUFEMkxOa0ZFY2RGU3g4b2dPYV9YRlZXZXlSSWo0cS12MEYxMEd5Rmg0VFFpbEcwbDVveXYxUTZVR05OdDg1dGE1YVJ3eV9USW8zek9uTU9LMFROZUItei1yZjBWdzZ1WDNXRnF6SkFhaUpJNXY0TFJaYVJLOGc0RG1idS1OMjl1eEpsMDFrejA4YTJhczEzWXZqZ0xKb0t5Wmx2R2ItQlJuYzl1bmt0NjFWU1B0S19LRnZ6THFfTUVvOTR5WjZmT3lSZmllQkJXQ2U4VzVNcFk2Z1VxYzdZT3Z1YzhJSXpFVzRHNXdE?oc=5",
+    "date": "2026.03.31"
+  },
+  {
+    "title": "South Korea to invest $166 million in AI chip startup Rebellions",
+    "summary": "South Korea's government is investing $166 million in Rebellions, an AI chip startup, as part of efforts to develop domestic AI semiconductor capabilities.",
+    "company": "Rebellions",
+    "investor": "South Korea (Government)",
+    "type": "series_c",
+    "tags": [
+      "series_c"
+    ],
+    "ev": "$166M",
+    "deal_stage": "signed",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX1UwU2JaM3BaZVlpNjU4ZmNjcnNMSEdydTY3NDA2T1ZvODl3YVI4ZEtidzNBQVVEXzBmTTYzd2hkMldlUlhQVU1tc1pRRDJIcFlMbnU3elFoTEpfaUNnb210ckdONnFDRFdZNlVQV1B2NzFOU2tyNlhZaXhlTGI0YkxEUTYwazBSdEVaLUw2aDVWWkRQWlFMSlh1TGRiWGxhRlFQb3ZxamljcWo1SUlxNXlR?oc=5",
+    "date": "2026.03.26"
+  },
+  {
+    "title": "South Korea invests US$166 million in chip startup Rebellions",
+    "summary": "South Korea's government invests US$166 million in chip startup Rebellions as part of efforts to strengthen the country's semiconductor industry.",
+    "company": "Rebellions",
+    "investor": "South Korea (Government)",
+    "type": "series_c",
+    "tags": [
+      "series_c"
+    ],
+    "ev": "$166M",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNzZqS0tiVmVPRkVMSUZNVF9Xb2dWMXFHMmp1ZWJlaUE1bmxod2Q4SnpEbUZsMHRsb3l5NUtfZk8tZVhueFhESGpWM21WbDNUYk5rdlRmLWJvTm1xdEhadGFseEt4S0ltLWd3elVNV0E4YjREMWlwSGZHREZLNTBiZllnRkg3c2xtZ2ZDYTctMi05NUk?oc=5",
+    "date": "2026.03.31"
+  },
+  {
+    "title": "AI Research Startup Redrob Draws $10 Mn In Series A Funding Led By Korea Investment Partners",
+    "summary": "AI research startup Redrob raised $10 million in Series A funding led by Korea Investment Partners.",
+    "company": "Redrob",
+    "investor": "Korea Investment Partners",
+    "type": "series_a",
+    "tags": [
+      "series_a"
+    ],
+    "ev": "$10M",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdU5fWEdBQ3Q2ajAzaGVHODJLUkcxbGYyQTEzLTlyNVA5c1psZHp3WXd0eUsybVNBYzZRZGQ4SV9WS2VPOWFCOGVYaTl6Ymo0M2hRWFFjaUNBZUFvT1RTY01sVnAxQVZqSjBFU1hjYWh0bEFxbEFiUFRsSDRiRUkzbklQVWJLb2Q0Vk9lUkFYMkh4Ui1WSHI2aFdoV0tXYklCZXR4MC05ZHI?oc=5",
+    "date": "2025.11.24"
+  },
+  {
+    "title": "Rebellions Closes $253M Series C with U.S. VC Backing: Boosting Global Confidence in Korea's AI Hardware",
+    "summary": "Rebellions, a Korean AI hardware startup, closed a $253M Series C funding round backed by U.S. venture capital investors, strengthening its position in the global AI chip market.",
+    "company": "Rebellions",
+    "investor": "U.S. VC investors",
+    "type": "series_c",
+    "tags": [
+      "series_c"
+    ],
+    "ev": "$253M",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTmpYODAyUFNjNVBqTWFVZ1lBQmVzdHJ4eEVYdDVXNlM3blFKZ2VXTnBQUWlLYWJUZmJBV3ZkM1F0ZkxFYlFvajRZaUYyZFg1V1U1OTEya0FWR3pDYUFrUXRxS3pGSnRIWDZCZGNqM1EzOUV3RzZVODJYOWRMRkdja2IwVlZ6NzBWTVE?oc=5",
+    "date": "2025.11.11"
+  },
+  {
+    "title": "Rebellions Raises 640 Billion Won in Pre-IPO Round as First Korea National Growth Fund Pick",
+    "summary": "Rebellions, a Korean AI chip startup, raised 640 billion won in a pre-IPO round with Korea National Growth Fund as the lead investor, marking the fund's first investment.",
+    "company": "Rebellions",
+    "investor": "Korea National Growth Fund",
+    "type": "pre_ipo",
+    "tags": [
+      "pre_ipo"
+    ],
+    "ev": "640 billion won (~$480M)",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42cGZFVFpzWnI1cTg2VUJVQ3AxZDlyZWdvRWNUY0JSQTFnZDRuVDJuYWFBWl9wMm9ydFFCb1RvSlEyOUN3ZS1UWlFuUGZwdTAtZFdudjlYbkVGeEZlVnQwX3FPblhWZw?oc=5",
+    "date": "2026.03.31"
+  },
+  {
+    "title": "South Korean AI Chip Firm Rebellions Raises $400M Pre-IPO Funding at $2.3B Valuation",
+    "summary": "Rebellions, a South Korean AI chip manufacturer, raised $400M in pre-IPO funding at a $2.3B valuation from undisclosed lead investor(s).",
+    "company": "Rebellions",
+    "investor": "Unknown",
+    "type": "pre_ipo",
+    "tags": [
+      "pre_ipo"
+    ],
+    "ev": "$400M",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUFpKUmhSRkZkOS1EYnpHZVpxWkhYamIzcGlxbFduMzlTMW1rVDVUUHlzemVtQ3loWWRrQlpCUVkycFNRbk5naVNqbFI0NTU5TXVQbWRzaDNzU0FidnZIVDJLZGFBMFpoajFZQTVZemNtOHktX3JJX3FHWW5Sbk1aYnJ6X2FfS2JPMnJ4STFBV0QzYXdVNkpEM0dHdFRCTTdmMzVFWQ?oc=5",
+    "date": "2026.03.30"
+  },
+  {
+    "title": "Rebellions closes $400M pre-IPO round at a $2.34B valuation",
+    "summary": "Rebellions, an AI chip startup, closed a $400M pre-IPO investment round at a $2.34B valuation. The specific lead investor is not clearly named in the provided summary.",
+    "company": "Rebellions",
+    "investor": null,
+    "type": "pre_ipo",
+    "tags": [
+      "pre_ipo"
+    ],
+    "ev": "$400M",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLWppaVBkVVR0WUhSUnR5N0RaUm1MaVdobkpiMXlIZ1ZsMnZnbExnR0F1X0dta2owWmRLdlA1T3J4S1pwUndxMmN1dTRYZFlNUVBSb28zNDdkY3pNUkM3THRsa0ktZkswUzJsS2xPLVMtVktUaXg4LUN5d3FRYzRMbTd5SzAtajZwNTYwOE9B?oc=5",
+    "date": "2026.03.30"
+  },
+  {
+    "title": "Rebellions Raises 640 Billion Won in Pre-IPO, Valued at 3.4 Trillion Won",
+    "summary": "Rebellions, an AI chip design startup, raised 640 billion won in a pre-IPO investment round, achieving a valuation of 3.4 trillion won. The specific lead investor is not clearly named in the available information.",
+    "company": "Rebellions",
+    "investor": "Unnamed",
+    "type": "pre_ipo",
+    "tags": [
+      "pre_ipo"
+    ],
+    "ev": "640 billion won",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oRzBhUEVhVkt1Q3FVU3FoWFZnaGZmZzMwb25pUC1xRktqTVBvbzlvdEdXbllHcWl1MHBVMDBwLXc5cVNvVGRKZzZPWlF3eVBnYkJEeDBCX1hPUVZVYWdKcHdsNGFrcVQtY3hHMEZtTURpSlZK?oc=5",
+    "date": "2026.03.31"
+  },
+  {
+    "title": "Rebellions Raises $424M in Pre-IPO Round as First Direct Investment Under National Growth Fund",
+    "summary": "Rebellions, an AI chip design startup, raised $424M in a pre-IPO investment round, marking the first direct investment under South Korea's National Growth Fund.",
+    "company": "Rebellions",
+    "investor": "National Growth Fund",
+    "type": "pre_ipo",
+    "tags": [
+      "pre_ipo"
+    ],
+    "ev": "$424M",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFSERDaUdFQnBqcVVQSVJTalI1U3B0NkFWY2dtS1FPc21hYnQ1U2FjYzk3VHlWbVJud0RkOXJPMVZ1OTRkcXZtekFrUEVBYXFUSkk0?oc=5",
+    "date": "2026.03.31"
+  },
+  {
     "title": "Redrob raises $10 million in Series A funding led by Korea Investment Partners",
     "summary": "Redrob raised $10 million in Series A funding led by Korea Investment Partners.",
     "company": "Redrob",
