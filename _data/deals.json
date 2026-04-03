@@ -1,5 +1,89 @@
 [
   {
+    "title": "Salesforce Ventures Joins Korean AI Startup Datumo's Series B",
+    "summary": "Salesforce Ventures has joined Korean AI startup Datumo's Series B funding round. The investment supports Datumo's AI technology development.",
+    "company": "Datumo",
+    "investor": "Salesforce Ventures",
+    "type": "series_b",
+    "tags": [
+      "series_b"
+    ],
+    "ev": null,
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNenZYZFhQVlZZOVhmT2VIaTZGcTRZNUhoT0pCZlZWa2hzVHZMeWlyd3NoZDFtYXZCVllCcTg1NlhIMXZmN1I2cThSVEJSSjhEcElNTXhscVBHSkRKandvMVM1Rk51OFZzcWhkRXg2QkF0X3hSWjNMTVIyWWpJZ2c5eE5nclphOS16UG8xc0ZVa0x4NENFUFFUYzBQdEVGemNQR3NlYlctTFBxYkx5MVNB?oc=5",
+    "date": "2025.08.11"
+  },
+  {
+    "title": "MicrobiotiX Finalizes KRW 20 Billion Series B, Securing Korea's First Bacteriophage Clinical Trial",
+    "summary": "MicrobiotiX completed a KRW 20 billion Series B funding round. The investment secures Korea's first bacteriophage clinical trial.",
+    "company": "MicrobiotiX",
+    "investor": "Not clearly named",
+    "type": "series_b",
+    "tags": [
+      "series_b"
+    ],
+    "ev": "KRW 20 billion",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNV3lXSWpXU2M1eGx0cGRLYktXbmdTS0ctWUxTZlZvYXdCcVVucXFKbUJyT29ZWndaQ213aGRYb0xoRU9Gb2RsMHQ5MUxxb3djemgwa3FZamxDaHMtaGRfZU94SWFqUjJpNGFnU2lITDdCZlFCV09BU1lGWEZIU21DNnVCUXpBdm1iTWZ3aWR6eGxmb2pqSGNlOTNQWkFHVnhKUDNGdmo0VkRSNDJUY1lmSThLTUY0S2FRSmYzTE9oMU5oWmlQZGFodDY2YWZNc2VWY2c?oc=5",
+    "date": "2025.09.03"
+  },
+  {
+    "title": "Galux Closes $29M Series B to Advance AI-Driven Protein Design for Drug Discovery",
+    "summary": "Galux closed a $29M Series B funding round to advance its AI-driven protein design platform for drug discovery applications.",
+    "company": "Galux",
+    "investor": "Not clearly named in provided text",
+    "type": "series_b",
+    "tags": [
+      "series_b"
+    ],
+    "ev": "$29M",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX3NjWG5hbF9yX0dEREd1NndLWHpGMkxOOWxyUjloVWxkRWZzUlVXel9oek9MQXgxMmVreW11cERwQ1NkNllmOEpodndoMm13YTRINHhiY1hSQWk0RG4xbS10U2Ryc21XeGRrWEtydEI5MHpSTjFhanpSMWw1RXFIRDI5bXdSdFBkd0tOMG9SbE1JTVRpcFczS1ctemV2bWthYWRGSkdVZHJUeVN0TDY4WXhnckM2YXdNWGc?oc=5",
+    "date": "2026.02.12"
+  },
+  {
+    "title": "Korea Exchange acquires AI startup FairLabs in first M&A in 70 years",
+    "summary": "Korea Exchange, the operator of South Korea's financial markets, acquires AI startup FairLabs in its first merger and acquisition transaction in 70 years.",
+    "company": "FairLabs",
+    "investor": "Korea Exchange",
+    "type": "ma",
+    "tags": [
+      "ma"
+    ],
+    "ev": null,
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNkpDdlNYdnFna0dyN0JhWnhRRndYRGdhN2x4bFVVS1NSN0ZFbllOVW1lTXg1b1RUMkh1RkhxMmNGUWd5a0x3aHo5eVBQc3JnTk5hN2s2b0V0aS1rM3hHMDRPbEdZTUdTZG9zNXRXRnZId25pSFRKVXMtQ195TVpvazVrUGo3YmtQdWE2dU51Y0dFcU5qQ0xaUzAza09kRE04eHRfOFZlamx1SWNW?oc=5",
+    "date": "2026.02.10"
+  },
+  {
+    "title": "Rebellions secures 640 billion won pre-IPO to power Korea's AI chip push",
+    "summary": "Rebellions, a Korean AI chip startup, secured a 640 billion won pre-IPO investment round to advance its AI chip development and prepare for its initial public offering.",
+    "company": "Rebellions",
+    "investor": "Not clearly named",
+    "type": "pre_ipo",
+    "tags": [
+      "pre_ipo"
+    ],
+    "ev": "640 billion won",
+    "deal_stage": "signed",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Vy0tUXVjTEF6WFQwbEVkVS1RRklEV2NsR0NCLTEwZWxmZHI3Q2thajBYZU9tWDNvU0Fwc2RnQWVlRlZPLU9qVU9LS05RUDVFRk9LYjdocEZqR20wZHE4OFczQTJORmt0R09fVVFvUWZFUXQybUNxM0lR0gGOAUFVX3lxTE5TcENTbjRMVjNjQ2xnZk50Vy1SMFlpZ0xGcjZhMkE4MGtNcVR0NU5SWk05QlZWcEdNdWIzNGM4cHRpanZYbnpWeWNtdWZwblpkd1Y3RjRvWnJXNFNuS3BvNWR4NlUwU0xOTDl3LU9Ca1Nnd1hpajlrWTdzeUJiWi1SUXhWc216cjBTOEJvMnc?oc=5",
+    "date": "2026.03.31"
+  },
+  {
+    "title": "Korea's The Invention Lab, QRT Back Singapore AI Computing Startup RIDM In Seed Round",
+    "summary": "Korea-based investors The Invention Lab and QRT invested in Singapore AI computing startup RIDM in a seed round.",
+    "company": "RIDM",
+    "investor": "The Invention Lab",
+    "type": "seed",
+    "tags": [
+      "seed"
+    ],
+    "ev": null,
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS2RReWczQ1ZWZWJmdExHdFlOdE94VHd3RERHRFRLTzBFUDZqVHBsRmk4XzFWbE5rLWo3QkV4U292NDNBQ054VUkwNXdvMnJ0a3VCbEd3VFg0dWphSlh3aUJJdTBkRGxad0lnTWFvUFRQcGRxVFdUcTE3UVFqbTZSbHdtMWVkRzc3UE5MWGZPeU9pSVBkUU1YaE44SWxUV2xDQ0RWYWlYSDhvT01FSW51U3RYVHBxaWs5RWcyRlQ4clpjWnp4eV85eGdYU1U?oc=5",
+    "date": "2026.03.03"
+  },
+  {
     "title": "Rebellions secures W640b pre-IPO funding - The Korea Herald",
     "summary": "Rebellions, a Korean AI chip startup, secured W640 billion (approximately $480-500 million) in pre-IPO funding from undisclosed investors ahead of its planned initial public offering.",
     "company": "Rebellions",
