@@ -1,5 +1,47 @@
 [
   {
+    "title": "[Korean Startup Weekly News #112] Rebellions Raises $424M in Pre-IPO Round as First Direct Investment Under National Growth Fund",
+    "summary": "Rebellions, a Korean AI chip startup, raised $424M in a pre-IPO round, marking the first direct investment by the National Growth Fund.",
+    "company": "Rebellions",
+    "investor": "National Growth Fund",
+    "type": "pre_ipo",
+    "tags": [
+      "pre_ipo"
+    ],
+    "ev": "$424M",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yTGVvX0pPMU5hbWRHdzVYblpsb0I5RGpQeENzOXdOZ2N2c2lBVFNpZXRjczNUNVF2SW9WTjFoOW5OcVlWRjIwaHc4VjZOQlhKWTlj?oc=5",
+    "date": "2026.04.03"
+  },
+  {
+    "title": "B2B platform Eezee bags $5m pre-Series B led by Korea Investment Partners",
+    "summary": "B2B platform Eezee raised $5 million in a pre-Series B funding round led by Korea Investment Partners.",
+    "company": "Eezee",
+    "investor": "Korea Investment Partners",
+    "type": "series_b",
+    "tags": [
+      "series_b"
+    ],
+    "ev": "$5M",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ3kweEl0dG8yMmNEakczNTdZZG9IUWIydVhmaUhrVHlXcHh6akh2Wk16NVZsQ093Yi1veG14TTN2R1FPV3FSUW5tWFJyWlptQjBJZ0Y0WlQyZGViWHZVbFF5U1lpUld4ZllVUWVRY0dwbEZVY0NTRW5ycl9pY1Q2WU1pbw?oc=5",
+    "date": "2026.02.24"
+  },
+  {
+    "title": "[Korean Startup Weekly News #94] Bone Raises $11.6M Seed to Construct Physical AI Infrastructure Combining Defensetech and Manufacturing Innovation",
+    "summary": "Bone raised $11.6M in seed funding to develop physical AI infrastructure combining defense technology and manufacturing innovation.",
+    "company": "Bone",
+    "investor": "Not clearly named",
+    "type": "seed",
+    "tags": [
+      "seed"
+    ],
+    "ev": "$11.6M",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IMVdrTEhCU0Jma2ZJVFpTMmhPUldvbm12NG9fOVFNcWVxVnA0UVpsLXp6OVNOTzA5MnMxdzFzZTFSSmpoa1JaR1ZrZlJuVzAybDRF?oc=5",
+    "date": "2025.11.23"
+  },
+  {
     "title": "Salesforce Ventures Joins Korean AI Startup Datumo's Series B",
     "summary": "Salesforce Ventures has joined Korean AI startup Datumo's Series B funding round. The investment supports Datumo's AI technology development.",
     "company": "Datumo",
