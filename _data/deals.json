@@ -1,5 +1,33 @@
 [
   {
+    "title": "Samsung backs South Korean AI chip startup Rebellions ahead of IPO",
+    "summary": "Samsung Electronics invested in South Korean AI chip startup Rebellions as a pre-IPO investment ahead of the company's planned initial public offering.",
+    "company": "Rebellions",
+    "investor": "Samsung Electronics",
+    "type": "pre_ipo",
+    "tags": [
+      "pre_ipo"
+    ],
+    "ev": null,
+    "deal_stage": "signed",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0FORUI3QU83bFZ0bzdnZmt3WWhnMHVFaG51NlltNUVRQnphdUNFRG15RHMxcDFnOUVtWE1fRHN6NlkzdUxpOUxPOF84d29lcnpYMmQ3OHVjVFRESUJDX09ybDB3ZDQ3N3FFU0ZPTTRRUzI5Z3BYdjZORFRoa3VYUF94YlVmUVJPQnVRV2RGWU1tSnct0gGaAUFVX3lxTE5oZW9SUDRMRS1OSzdrMTRBVTY4LUtUdGVUaVI0MVVhbE14WGprU2lHV3N0aGdLMEVINnpqTkk5M2tRZUhISFhxTmtRam1aOUwyTExOLTRxMk5ZNG43Q0hKWjZwaVBabDlySHBCQk9sTmw1ZXpHM2E3OHFYbkhDWlNwUEc0bFR3bGVCekNmZnFLNDQ3X0owNTVfbXc?oc=5",
+    "date": "2025.07.29"
+  },
+  {
+    "title": "Feasix AI Raises Seed Funding to Deploy Vision AI Robots Across Outdoor Facility Management",
+    "summary": "Feasix AI raised seed funding to deploy vision AI robots for outdoor facility management operations.",
+    "company": "Feasix AI",
+    "investor": "Unknown",
+    "type": "seed",
+    "tags": [
+      "seed"
+    ],
+    "ev": null,
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03bVRFSUJTcVhPZkg0NmZaQTNvZUV4SDVOd0FFQXhkOWo0NkxvLW9id0NLU1NrNEdUSlFwM3ZnS3BSeVhfVnBsa2xqRW9DX1ZibVRR?oc=5",
+    "date": "2026.04.06"
+  },
+  {
     "title": "Raion Robotics Secures $16.5 Million in Series A Funding to Target Global Robotics Market",
     "summary": "Raion Robotics raised $16.5 million in Series A funding to expand its presence in the global robotics market. The specific lead investor name is not clearly identified in the provided article summary.",
     "company": "Raion Robotics",
