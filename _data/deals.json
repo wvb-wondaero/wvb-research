@@ -1,5 +1,19 @@
 [
   {
+    "title": "South Korea AI biotech Galux raises $29m in series B - Tech in Asia",
+    "summary": "South Korean AI biotech company Galux raised $29 million in Series B funding. The specific lead investor is not clearly named in the provided summary.",
+    "company": "Galux",
+    "investor": null,
+    "type": "series_b",
+    "tags": [
+      "series_b"
+    ],
+    "ev": "$29M",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQazRRS1I0UnhyN1QzRlozaG9Ta0tLQjhVdElrWWxmdlJWRXBZSHpzemxubGdGUEozNXRpWGp6Z2ttXy1RNWxNZU1FOVFBNFhHTGZEOTZfZmNoblFia1o4Tm5KMFZCa0t2QXFubWEwZTFUUjNqS1ZVV1d4Q0ZUWU9xdnJuZExpNEhDaFdj?oc=5",
+    "date": "2026.02.10"
+  },
+  {
     "title": "Samsung backs South Korean AI chip startup Rebellions ahead of IPO",
     "summary": "Samsung Electronics invested in South Korean AI chip startup Rebellions as a pre-IPO investment ahead of the company's planned initial public offering.",
     "company": "Rebellions",
