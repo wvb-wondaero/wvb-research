@@ -1,5 +1,47 @@
 [
   {
+    "title": "Multimodal AI Startup 'ACTIONPOWER' Raises $4.1M Series B to Accelerate Global Expansion and B2B Growth",
+    "summary": "ACTIONPOWER, a multimodal AI startup, raised $4.1M in Series B funding to accelerate global expansion and B2B growth. The lead investor is not clearly named in the provided information.",
+    "company": "ACTIONPOWER",
+    "investor": null,
+    "type": "series_b",
+    "tags": [
+      "series_b"
+    ],
+    "ev": "$4.1M",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmZ2lOYjZEMlRmMkFFR2VGQUpVY2FWQm9WVEFZOW9PVTEwR3pMWDlOakFac0F2SlRiZUxTSm1uaE5TSjNtRE95NlZ4aGItN3kxelhv?oc=5",
+    "date": "2026.03.06"
+  },
+  {
+    "title": "The Korea Exchange has acquired Fair Labs, an AI-based data analysis startup, to transform enterpris..",
+    "summary": "The Korea Exchange acquired Fair Labs, an AI-based data analysis startup, in an M&A transaction to transform enterprise data analysis capabilities.",
+    "company": "Fair Labs",
+    "investor": "The Korea Exchange",
+    "type": "ma",
+    "tags": [
+      "ma"
+    ],
+    "ev": null,
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92eHR2U01NVFp3bTFMSUpia2pDdVUyVkEyQkV5SmtnbnNzcENvOEttQmd2UjFpUXBQS2xUTGpQaVA3bFF6eUtwRUxWZXdkVzQ?oc=5",
+    "date": "2026.02.10"
+  },
+  {
+    "title": "ADEL raises ₩49 bil. in pre-IPO round, exceeding target ahead of Kosdaq debut",
+    "summary": "ADEL raised ₩49 billion in a pre-IPO investment round, exceeding its target ahead of its planned Kosdaq listing.",
+    "company": "ADEL",
+    "investor": "Not clearly named",
+    "type": "pre_ipo",
+    "tags": [
+      "pre_ipo"
+    ],
+    "ev": "₩49 billion",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0VFBVRkJ3aUVCOHBzUnYzYWpMYlB3a3REbFFRSnB1MzEwa083MG9nd3cwUHZMSGZCY2V2ZDR4Ykx2ZUtfY3EtWkNqb1l1cllOR1VBd0VfLUNUX2VwNGFFLU1Fd2p3eVFmT1Fqd1V30gFyQVVfeXFMTm5HOUZMdGQ5YU5TU2NETVZCV1FkdUJWaFhXQWlrSzhuSlBlMHNQVFF3NlhRNW5WbmZFd0FVeS1LLUlyb0ZiNEVoU250dzhpelgwR3RORWQ3eFQ2R0FpZEN5cktCNzRCTlYwdkJUQ0pXRXln?oc=5",
+    "date": "2026.04.09"
+  },
+  {
     "title": "South Korea AI biotech Galux raises $29m in series B - Tech in Asia",
     "summary": "South Korean AI biotech company Galux raised $29 million in Series B funding. The specific lead investor is not clearly named in the provided summary.",
     "company": "Galux",
