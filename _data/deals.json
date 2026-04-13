@@ -1,5 +1,33 @@
 [
   {
+    "title": "Logpresso Raises KRW 16 Billion in Series B Funding - FinSMEs",
+    "summary": "Logpresso raised KRW 16 billion in Series B funding. The article mentions the target company and funding round but does not clearly name the lead investor.",
+    "company": "Logpresso",
+    "investor": null,
+    "type": "series_b",
+    "tags": [
+      "series_b"
+    ],
+    "ev": "KRW 16 billion",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTXF3Wk02dXQ4cGZTbk13NEFla1J2d3Y3ZlFmY0IxUWpPbU9FcXZUdnRPZ2s1Y19qU3pKWkhXRHpmdFFYZjA5VGFBbjJBSWd3S2lvcm1NOEI4SXpVaDlMN0FTN24tNlBpRmNEX1FzbVVqU0RPUHJqbHUwenZRN3EtbTEzanVHSnVtaEM3SFNCM3hwZw?oc=5",
+    "date": "2025.12.17"
+  },
+  {
+    "title": "Autonomous A2Z Raises ₩40.5B Pre-IPO as Korea Tests Its Global Autonomous Mobility Play",
+    "summary": "Autonomous A2Z raised ₩40.5B in a pre-IPO investment round as the Korean autonomous mobility company prepares for its public listing.",
+    "company": "Autonomous A2Z",
+    "investor": "Not clearly named",
+    "type": "pre_ipo",
+    "tags": [
+      "pre_ipo"
+    ],
+    "ev": "₩40.5B",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcDV6bl9Hb2c2X1E3Y3dJd0JCV0c5ZzRuaXZxaUwxTXltY0JVZGtoZHNKb3NmU2xYUFRRekdFUkk2aWxIZThNYzBRWWlyMEJkVTY3Nk0yME9wYU9zRHpmS2ZrS2pUSTFOMEtha3hxZ1F3X0VfWUt6TS1ZdVhOUTJBLVQ1T2M1WlZvZmJweE1PNVhMc2pzUF9VbmJmSmwyVlNYZDdxckRfb1BFR21MVzFKWGdlaXZoZWl4NzJnaTBn?oc=5",
+    "date": "2026.03.13"
+  },
+  {
     "title": "[Korean Startup Weekly News #113] Mobilint Raises $46.4M Series C, Bets Big on Edge AI",
     "summary": "Mobilint raised $46.4M in Series C funding to accelerate edge AI technology development and market expansion.",
     "company": "Mobilint",
