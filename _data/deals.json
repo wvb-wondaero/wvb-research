@@ -1,5 +1,33 @@
 [
   {
+    "title": "[Korean Startup Weekly News #114] Upstage Becomes Korea's First Generative AI Unicorn After Closing $126M Series C",
+    "summary": "Upstage closed a $126M Series C funding round, becoming Korea's first generative AI unicorn. The deal was led by undisclosed investors.",
+    "company": "Upstage",
+    "investor": "Not clearly named",
+    "type": "series_c",
+    "tags": [
+      "series_c"
+    ],
+    "ev": "$126M",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YZWxpR0U3emZuMzdySi1ydW83QnNIQjc5Mk1tNUR1alRfd0NFYWlVakV2dS1ac1A2QlZUbVp0ODl0czJjaW54UnNoSlNZSW1oMnRZ?oc=5",
+    "date": "2026.04.18"
+  },
+  {
+    "title": "Pair Square Lab raises Series B from Mirae Asset, Korea Investment",
+    "summary": "Pair Square Lab raised Series B funding from Mirae Asset and Korea Investment. The investment round details and amount were not specified in the available information.",
+    "company": "Pair Square Lab",
+    "investor": "Mirae Asset, Korea Investment",
+    "type": "series_b",
+    "tags": [
+      "series_b"
+    ],
+    "ev": null,
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14VFdQRVNyMTFndkNGT3NDNV9SZmNWODNSZWtFS0JwQWN3ejN5eWVoWE9uTVNILUFzNUVCVy1fQlo4N0h1akhIOF9JTG1lOXF4WE0zYnhWdlJySjItNWFBeE1B?oc=5",
+    "date": "2026.04.15"
+  },
+  {
     "title": "Fair Square Lab Secures Series B Funding from Firms Including Mirae Asset and Korea Investment",
     "summary": "Fair Square Lab secured Series B funding from multiple investors including Mirae Asset and Korea Investment Partners. The company focuses on on-chain finance solutions.",
     "company": "Fair Square Lab",
