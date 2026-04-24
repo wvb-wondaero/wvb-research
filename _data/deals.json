@@ -1,5 +1,33 @@
 [
   {
+    "title": "Mediwhale secures ₩20 billion in Series C funding, preparing for IPO",
+    "summary": "Mediwhale secured ₩20 billion in Series C funding as the company prepares for its initial public offering.",
+    "company": "Mediwhale",
+    "investor": "Not clearly named",
+    "type": "series_c",
+    "tags": [
+      "series_c"
+    ],
+    "ev": "₩20 billion",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yM2M0S0RibUlMT0RHR3JvM2NyNzBiVmhIX3FCZzRBZ0M5ZG9SV0RiUXFxaGszM3E2Q3ZaMWh5dmJIZmxzdEhCSkJpYnQ4RkRpMGxYUEkxa3VoRmRFQzJUZkJCVVNoN0RSOUhidnJn0gFyQVVfeXFMUERuMW9RSUpNOXkwNUYzemtzOGpCX2YweHJ4VHFjTy1lREo2Wnh4a1dlb1d6Y21Pa2szeExCVmJpR3hFTHJ3bXFKbjljdXdZT0VRMWhCV1BFTXk4eDVsNm5ldFgwbEZVMlB3SW12elg5M0Zn?oc=5",
+    "date": "2026.03.31"
+  },
+  {
+    "title": "Autonomous A2Z Raises 40.5 Billion Won Pre-IPO, Plans Kosdaq Listing Review Next Month",
+    "summary": "Autonomous A2Z raised 40.5 billion won in a pre-IPO investment round and plans to pursue listing review on Kosdaq next month.",
+    "company": "Autonomous A2Z",
+    "investor": "Not clearly named",
+    "type": "pre_ipo",
+    "tags": [
+      "pre_ipo"
+    ],
+    "ev": "40.5 billion won",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9rNS1Bci1oZXFtR0dmdFVNTGJRS1FKT2lSalBiM0hYbTYwTWE4d2EyUTRVQjktMFQ1RnJCbVRwOF9ycmdBbjlBSGoyb1UtNURicV9GUlVWRDJLdDVtWGR2REFOZjQ1QQ?oc=5",
+    "date": "2026.03.12"
+  },
+  {
     "title": "Logpresso Raises KRW 16 Billion Series B - The SaaS News",
     "summary": "Logpresso, a Korean SaaS company, raised KRW 16 billion in its Series B funding round.",
     "company": "Logpresso",
