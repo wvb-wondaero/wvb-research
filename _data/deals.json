@@ -1,5 +1,33 @@
 [
   {
+    "title": "[Korean Startup Weekly News #115] Point2 Technology Raises Series B Extension to Accelerate AI Interconnect Deployment",
+    "summary": "Point2 Technology raised a Series B Extension round to accelerate AI interconnect deployment. Specific investor name and investment amount are not clearly disclosed in the provided summary.",
+    "company": "Point2 Technology",
+    "investor": null,
+    "type": "series_b",
+    "tags": [
+      "series_b"
+    ],
+    "ev": null,
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tY3ozMDQyMkpLZmluX1dYVWt4cFRkY0U1NGIxaEJkQVFBTGFhazA5OE5lb3JlRWx6TU1DVHBEVzFmajJmdklfVGlTZ3Q4ZFVtWEpz?oc=5",
+    "date": "2026.04.26"
+  },
+  {
+    "title": "Logpresso Raises KRW 16 Billion in Series B Funding",
+    "summary": "Logpresso completed a Series B funding round raising KRW 16 billion. The article mentions the target company and funding amount, though specific investor names require verification from the full article content.",
+    "company": "Logpresso",
+    "investor": "Unknown",
+    "type": "series_b",
+    "tags": [
+      "series_b"
+    ],
+    "ev": "KRW 16 billion",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTXF3Wk02dXQ4cGZTbk13NEFla1J2d3Y3ZlFmY0IxUWpPbU9FcXZUdnRPZ2s1Y19qU3pKWkhXRHpmdFFYZjA5VGFBbjJBSWd3S2lvcm1NOEI4SXpVaDlMN0FTN24tNlBpRmNEX1FzbVVqU0RPUHJqbHUwenZRN3EtbTEzanVHSnVtaEM3SFNCM3hwZw?oc=5",
+    "date": "2025.12.17"
+  },
+  {
     "title": "Upstage: $45 Million Series B Secured To Advance Enterprise-Grade GenAI and Global Expansion",
     "summary": "Upstage secured $45 million in Series B funding to advance enterprise-grade generative AI capabilities and expand globally.",
     "company": "Upstage",
