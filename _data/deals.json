@@ -1,5 +1,48 @@
 [
   {
+    "title": "Four Pillars Series A Funding: Pantera Capital Leads $21.9M Round to Transform Web3 Research",
+    "summary": "Pantera Capital led a $21.9M Series A funding round for Four Pillars, a Web3 research company, to accelerate its platform and research capabilities.",
+    "company": "Four Pillars",
+    "investor": "Pantera Capital",
+    "type": "series_a",
+    "tags": [
+      "series_a",
+      "web3"
+    ],
+    "ev": "$21.9M",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03TWRGR2d2VFExSFRPeWdSeFdlZTJ3QmVNZFJWZnRLcnlZbXJMbVFlaGMyek1lSkNZeUVxT21lVjYwWXdyd0NHLTlxVGVCd0plWlAyc3pmdVM?oc=5",
+    "date": "2026.04.27"
+  },
+  {
+    "title": "Tynapse Raises $3.17M Seed Round to Build Runtime Security Infrastructure for AI Agents",
+    "summary": "Tynapse raised $3.17M in a seed round to develop runtime security infrastructure for AI agents. The article does not clearly name the lead investor.",
+    "company": "Tynapse",
+    "investor": null,
+    "type": "seed",
+    "tags": [
+      "seed"
+    ],
+    "ev": "$3.17M",
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43SU9nQnZnZVVZbmdCbkFDNWplUDN0dm83d3BNYlRWYTlXenFsQnVPem93dk16dGdnM0ZRTjNRUmVyOG5DQWV0UmpCWXRraHVlc3hJ?oc=5",
+    "date": "2026.04.28"
+  },
+  {
+    "title": "Korean Travel AI Startup RIAD Corporation Raises Seed Bridge Round from Silicon Valley's Sazze Partners",
+    "summary": "Korean travel AI startup RIAD Corporation raised a seed bridge round from Silicon Valley-based investor Sazze Partners.",
+    "company": "RIAD Corporation",
+    "investor": "Sazze Partners",
+    "type": "seed",
+    "tags": [
+      "seed"
+    ],
+    "ev": null,
+    "deal_stage": "closed",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yeWp1Nm52c2RKazhQOHk5VW9LLTJxUWhMdTJvbGlCQUQ1VkxVa3ktb2hSeG84Qi01ZlpzVng5ZF9BSXRtUnVOWGVLOXBXTzNQek5n?oc=5",
+    "date": "2026.03.19"
+  },
+  {
     "title": "[Korean Startup Weekly News #115] Point2 Technology Raises Series B Extension to Accelerate AI Interconnect Deployment",
     "summary": "Point2 Technology raised a Series B Extension round to accelerate AI interconnect deployment. Specific investor name and investment amount are not clearly disclosed in the provided summary.",
     "company": "Point2 Technology",
